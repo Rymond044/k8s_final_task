@@ -1,0 +1,6 @@
+[submodule "app_repo"]
+	path = app_repo
+	url = ./app_repo
+[submodule "helm_repo"]
+	path = helm_repo
+	url = ./helm_repo
