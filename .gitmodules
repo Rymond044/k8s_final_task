@@ -1,6 +1,6 @@
 [submodule "app_repo"]
 	path = app_repo
-	url = ./app_repo
+	url = https://github.com/Rymond044/k8s_final_app_repo.git
 [submodule "helm_repo"]
 	path = helm_repo
-	url = ./helm_repo
+	url = https://github.com/Rymond044/k8s_final_helm_repo.git
